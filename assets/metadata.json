@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Fusion",
+  "description": "Upload two images of people, choose an interaction, and watch as AI generates a new image of them shaking hands, hugging, or saluting each other using Gemini.",
+  "requestFramePermissions": []
+}
